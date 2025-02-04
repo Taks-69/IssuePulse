@@ -7,9 +7,13 @@ IssuePulse is a **multi-platform notification bot** that tracks **GitHub Issues*
 ## 🚀 Features
 
 ✅ **Real-time GitHub Issue & PR tracking**
+\
 ✅ **Multi-platform support (Discord & Telegram)**
+\
 ✅ **Automated notifications for new issues & PRs**
+\
 ✅ **Configurable repository tracking**
+\
 ✅ **Lightweight and easy to deploy**
 
 ---
